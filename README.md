@@ -1,16 +1,99 @@
-# daily_medicinebd
+1.Daily MedicineBD
 
-A new Flutter project.
+A simple Flutter Medicine App built using GetX.
+Easily browse, search, and view detailed information about medicines and diseases.
 
-## Getting Started
+2.Features
 
-This project is a starting point for a Flutter application.
+Browse a list of 100+ generic medicines
 
-A few resources to get you started if this is your first Flutter project:
+Search medicines by name, disease, or category
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View detailed medicine information including:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Category
+
+Medicine Name
+
+Disease Name
+
+Overview
+
+Symptoms
+
+Diagnostic Tests
+
+Adult & Child Dosage
+
+Side Effects
+
+Reactive UI with GetX
+
+
+
+
+3.Technology Used
+
+Flutter – for UI and cross-platform development
+
+GetX – state management and reactive UI
+
+Generic Medicines List (Sample)
+
+Here is a list of some of the 100 generic medicines included:
+
+Paracetamol
+
+Ibuprofen
+
+Amoxicillin
+
+Azithromycin
+
+Cetirizine
+
+Loratadine
+
+Metformin
+
+Glibenclamide
+
+Omeprazole
+
+Ranitidine
+
+Salbutamol
+
+Prednisolone
+
+Hydrochlorothiazide
+
+Atenolol
+
+Losartan
+
+Enalapril
+
+Levothyroxine
+
+Fluoxetine
+
+Sertraline
+
+Diazepam
+
+Alprazolam
+
+Simvastatin
+
+Atorvastatin
+
+Ciprofloxacin
+
+Clindamycin,etc.
+
+
+
+4.Download APK
+
+Click here to download the APK:  https://drive.google.com/file/d/1OVOC3mcYm-5o72UuAyFxJ8JVrDLEQgXX/view?usp=drive_link
