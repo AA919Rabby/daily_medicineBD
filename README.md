@@ -94,6 +94,51 @@ Clindamycin,etc.
 
 
 
-4.Download APK
+
+
+4.Schreenshots
+
+
+
+[Loading schreen](Screenshot_20260113_210649.jpg)
+
+
+
+
+
+[First look](Screenshot_20260113_210654.jpg)
+
+
+
+
+
+[Home schreen](Screenshot_20260113_210658.jpg)
+
+
+
+
+
+[Search a medicine](Screenshot_20260113_210718.jpg)
+
+
+
+
+
+[Search result](Screenshot_20260113_210723.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.Download APK
 
 Click here to download the APK:  https://drive.google.com/file/d/1OVOC3mcYm-5o72UuAyFxJ8JVrDLEQgXX/view?usp=drive_link
